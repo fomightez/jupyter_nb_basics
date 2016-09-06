@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/fomightez/jupyter_nb_basics/notebooks/Jupyter%20Notebook%20Basics.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/fomightez/jupyter_nb_basics/notebooks/Jupyter%20Notebook%20Basics.ipynb)  
 ^^^^^^^^^^  
 Press that button above to start a live example notebook.
 
